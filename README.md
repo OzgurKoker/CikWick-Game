@@ -64,11 +64,11 @@ This Unity 3D project covers fundamental principles of game development through 
 
 You can add a few gameplay screenshots below:
 
-![Game Screenshot 1](CikWick/images/1.png)
-![Game Screenshot 1](CikWick/images/2.png)
-![Game Screenshot 1](CikWick/images/3.png)
-![Game Screenshot 1](CikWick/images/4.png)
-![Game Screenshot 1](CikWick/images/5.png)
+![Game Screenshot 1](CikWick/Images/1.png)
+![Game Screenshot 1](CikWick/Images/2.png)
+![Game Screenshot 1](CikWick/Images/3.png)
+![Game Screenshot 1](CikWick/Images/4.png)
+![Game Screenshot 1](CikWick/Images/5.png)
 
 ## 🛠️ Installation
 
