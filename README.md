@@ -62,8 +62,6 @@ This Unity 3D project covers fundamental principles of game development through 
 
 ## 📸 Screenshots
 
-You can add a few gameplay screenshots below:
-
 ![Game Screenshot 1](CikWick/Images/1.png)
 ![Game Screenshot 1](CikWick/Images/2.png)
 ![Game Screenshot 1](CikWick/Images/3.png)
